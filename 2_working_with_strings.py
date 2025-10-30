@@ -46,6 +46,12 @@ declaration_of_independence = "The unanimous Declaration of the thirteen united 
 # # 3. Indexing and Slicing
 # # ----------------------------------------
 
+chicago_mayor = "Johnson"
+
+print(chicago_mayor[0])
+print(chicago_mayor[-1])
+print(chicago_mayor[4])
+
 # # Indexing: Access characters by position (0-based index)
 # print("First character:", phrase[0])  # Output: P
 # print("Last character:", phrase[-1])  # Output: !
